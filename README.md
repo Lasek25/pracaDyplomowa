@@ -5,6 +5,7 @@
 ### Planowane do wykorzystania technologie: React, Python, MySql
 
 ## Diagram przypadków użycia
-
+![DPU](/DPU.jpg)
 
 ## Schemat bazy danych
+![Schemat bazy danych](/BazaDanych.png)
